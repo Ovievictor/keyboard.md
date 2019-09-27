@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am ovievictor on github.
+  * I am ovievictor (https://keybase.io/ovievictor) on keybase.
+  * I have a public key ASAQOwU0tp8XWu17fbzRGZbG9C7mL-1ACaPD33rNiOKigQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120103b0534b69f175aed7b7dbcd11996c6f42ee62fed4009a3c3df7acd88e2a2810a",
+      "host": "keybase.io",
+      "kid": "0120103b0534b69f175aed7b7dbcd11996c6f42ee62fed4009a3c3df7acd88e2a2810a",
+      "uid": "6c915c13614ffaa3899b3545c8639c19",
+      "username": "ovievictor"
+    },
+    "merkle_root": {
+      "ctime": 1569622436,
+      "hash": "b5319c9fb7bbce575599439245d8ba3c222d0818956a27734cbfa08ddc9b2c675470f2e7afe90850243748a12bab6d935e85cc3ff73a3be782d12e43aae9af6e",
+      "hash_meta": "dd495b73bd877bd77c9d8ba5a028c36ea2f8c6908792bbb30acc24e68cbd70f2",
+      "seqno": 7775635
+    },
+    "service": {
+      "entropy": "TpCie5jKhDOHQtw0im5cTy7m",
+      "name": "github",
+      "username": "ovievictor"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1569622456,
+  "expire_in": 504576000,
+  "prev": "c364385972413e5ceeadb9884054b4babb656930d1ed35bdca98dc003df8bd70",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASAQOwU0tp8XWu17fbzRGZbG9C7mL-1ACaPD33rNiOKigQo](https://keybase.io/ovievictor), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEDsFNLafF1rte3280RmWxvQu5i/tQAmjw996zYjiooEKp3BheWxvYWTESpcCDcQgw2Q4WXJBPlzurbmIQFS0urtlaTDR7TW9ypjcAD34vXDEIIS/DN/9+MCfGHqhNVA0CD3uD8qKeJvmiFLkOVJTyTtpAgHCo3NpZ8RAnHepce7BnR/h7LT4yqiqW1ji3A+6v9+Iy5mhYERwB8Hm/5T0G4uKQxybp4AUWneJmsMtwCbP4X4wgJQYWZo4CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEvJqpIJiCSnB+DpHaLM3rTk4MXIIiSb+n5651AE0tC6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/ovievictor
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id ovievictor
+```
